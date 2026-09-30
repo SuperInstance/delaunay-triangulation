@@ -1,9 +1,11 @@
 [package]
 name = "delaunay-triangulation"
 version = "0.1.0"
-description = "A Rust library for Delaunay Triangulation"
+description = "Delaunay Triangulation — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/delaunay-triangulation"
+repository = "https://github.com/SuperInstance/delaunay-triangulation"
 edition = "2021"
+
+keywords = ["delaunay-triangulation"]
 
 [dependencies]
